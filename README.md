@@ -9,4 +9,4 @@ Through Microsoft Azure's Facial Recognition API (https://azure.microsoft.com/en
 ## Video Slicing
 
 
-![alt text](https://github.com/OliverCollins/Face2Face/AllTogether.png)
+![alt text](AllTogether.png)
