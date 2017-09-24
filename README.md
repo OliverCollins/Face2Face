@@ -8,5 +8,6 @@ Through Microsoft Azure's Facial Recognition API (https://azure.microsoft.com/en
 
 ## Video Slicing
 
+Using @ilkkao's capture-video-frame micro-library (https://github.com/ilkkao/capture-video-frame) we were able to take slices of video and split them into frames or individual "pictures" to be evaluated and so we can run them through our algorithm.
 
 ![alt text](AllTogether.png)
